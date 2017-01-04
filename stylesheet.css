@@ -1,0 +1,414 @@
+
+body  {
+       margin: 0;
+       padding: 0;
+}
+div.nav ul li {
+             display: inline;
+}
+
+#form  {
+        display: inline-block;
+}
+#form input  {
+              height: 40px;
+              width: 550px;
+              font-size: 15px;
+              padding-left: 10px;
+              font-weight: 10px;
+}
+#googlelogo  {
+              position: relative;
+              top: 22px;
+              right: 20px;
+}
+ul.first_line li a  {
+                     text-decoration: none;
+}
+ul.second_line li a {
+                     text-decoration: none;
+}
+#icon  {
+        float: right;
+        position: relative;
+        top: 38px;
+        right: 50px;
+}
+
+#button  {
+          float: right;
+          position: relative;
+          top: 35px;
+          right: 30px;
+          width: 70px;
+          height: 30px;
+          background-color: #03a9f4;
+          color: white;
+          font-size: 12px;
+          border: none;
+}
+#microphone  {
+              position: relative;
+              right: 90px;
+              top: 5px;
+              
+}
+#find  {
+        position: relative;
+        right: 70px;
+        top: 5px;
+} 
+div.nav  {
+          margin-top: -15px;
+}
+ul.second_line  {
+                 padding-left: 165px;
+                 padding-top: 10px;
+} 
+ul.second_line a  {
+                   font-size: 15px;
+                   color: #776c6c;
+}
+ul.second_line a:hover  {
+                         color: black;
+}
+ul.second_line li  {
+                    padding: 10px;
+}
+#settings   {
+            padding-left: 80px;
+} 
+.nav  {
+       background-color: rgba(197, 197, 197, 0.15);
+       padding-bottom: 2px;
+       border-bottom: 1px solid rgba(175, 171, 171, 0.23);
+}
+div#line  {
+        width: 45px;
+        height: 3px;
+        background-color: #03A9F4;
+        position: relative;
+        top: 18px;
+        right: 3px;
+}
+div.column_result  {
+                 
+                 width: 50%;
+                 float: left;
+                 margin-right: 10px;
+                 margin-left: 0px;
+                 padding-left: 180px;          
+}
+div.column_result_2  {
+                   
+                   width: 30%;
+                   float: left;
+                   margin-left: 0px;
+                   padding-left: 0px;
+                   margin-top: 50px;
+                   border: 1px solid rgba(128, 128, 128, 0.32);
+                   height: 750px;
+                   
+}
+.footer  {
+          clear: both;
+          padding-top: 10px;
+          background-color: rgba(197, 197, 197, 0.15);
+          margin-top: 20px;
+          margin-bottom: 0px;
+          padding-bottom: 20px;
+          
+}
+h3  {
+     margin-bottom: 0;
+     padding-bottom: 0;
+}
+p  {
+    margin: 0;
+}
+.column  {
+             width: 100%;
+             margin top: 20px;
+             margin-bottom: 20px;
+}
+
+html  {
+       position: relative;
+       
+}
+body  {
+       margin: 0;
+       padding: 0;
+       min-width: 100%;
+       height: 100%;
+}
+ul.list_of_features li {
+                        list-style: none;
+                        padding-top: 6px;
+                        font-size: 15px;                     
+}
+ul.list_of_features  {
+                      padding-left: 14px;
+                      color: #222 !important; 
+}
+.slide:hover  {
+                              text-decoration: underline;
+                              cursor: pointer;
+}
+.slide  {
+         color: blue;
+}
+.view   {
+                  float: right;
+                  display: inline-block;
+                  font-size: 15px;
+                  color: gray;
+                  padding-right: 10px;
+}
+li.mountains span {
+             position: relative;
+             top: 26px;
+             font-size: 20px;
+}
+#image_1  {
+           position: relative;
+           top: 2px;
+           left: 6px;
+           cursor: pointer;
+}
+
+#image_2  {
+           position: relative;
+           top: 19px;
+           left: 10px; 
+           cursor: pointer;
+}
+
+#image_3  {
+           position: relative;
+           top: -16px;
+           left: 14px;
+           cursor: pointer;
+}
+
+#image_4  {
+           position: relative;
+           left: 8px;
+           top: 2px;
+           cursor: pointer;
+}
+
+#image_5  {
+           position: relative;
+           top: 2px;
+           cursor: pointer;
+}
+
+#big_image  {
+             cursor: pointer;
+             position: relative;
+             left: -3px;
+             top: -3px;
+}
+
+#big_image_map  {
+                 cursor: pointer;
+                 position: relative;
+                 top: -3px;
+                 right: 7px;
+}
+#balsam  {
+          padding-top: 35px;
+          
+}
+#west_kill  {
+             padding-top: 18px;
+}
+#hunter_mountain  {
+                   padding-top: 18px;
+}
+#blackhead  {
+             padding-left: 15px;
+}
+.move  {
+        padding-left: 10px;
+        color: rgba(6, 25, 185, 0.77);
+        cursor: pointer;
+}
+.move:hover  {
+              text-decoration: underline;
+}
+.bottom_paragraph  {
+                    padding-bottom: 15px;
+}
+#searches_related_to_catskills  {
+                                 padding-top: 30px;
+                                 padding-bottom: 20px;
+                                 font-size: 22px;
+}
+#cuomo_pic  {
+             position: relative;
+             top: 9px;
+             padding-bottom: 10px;
+             cursor: pointer;
+}
+#catskills_new_years_pic  {
+                          position: relative;
+                          top: -9px;
+                          margin-bottom: -9px;
+                          cursor: pointer;
+}
+#rob_d_n_pic  {
+               position: relative;
+               top: 7px;
+               padding-bottom: 6px;
+               cursor: pointer;
+}
+#what_to_do  {
+               text-decoration: none;
+               color: rgba(6, 25, 185, 0.77);
+}
+#helicopter  {
+              text-decoration: none;
+              color: rgba(6, 25, 185, 0.77);
+}
+#rob_d  {
+         text-decoration: none;
+         color: rgba(6, 25, 185, 0.77);
+}
+.title_header  {
+                text-decoration: none;
+                color: rgba(6, 25, 185, 0.77);
+                font-family: arial, sans-serif;
+}
+.title_header:hover  {
+                      text-decoration: underline;
+}
+
+.green  {
+         color: rgba(95, 134, 36, 0.99);
+}
+.blue  {
+        color: rgba(6, 25, 185, 0.77);
+        cursor: pointer;
+}
+.blue:hover  {
+              text-decoration: underline;
+}
+#helicopter:hover  {
+                    text-decoration: underline;
+}
+#what_to_do:hover  {
+                    text-decoration: underline;
+}
+#rob_d:hover  {
+               text-decoration: underline;
+}
+.table_td  {
+            padding-bottom: 10px;
+            padding-right: 40px;
+            color: rgba(6, 25, 185, 0.77);
+            cursor: pointer;
+}
+.table_raw  {
+             
+}
+.table_td:hover  {
+                  text-decoration: underline;
+}
+.td_darkblue  {
+               font-weight: bold;
+}
+.gooooogle  {
+             padding-left: 200px;
+             padding-bottom: 50px;
+             cursor: pointer;
+}
+.footer_bottom_ul li  {
+                       display: inline;
+                       padding-right: 20px;
+                       color: gray;
+}
+#first_raw_footer  {
+                    color: gray;
+}
+#first_raw_footer_li  {
+                       color: gray;
+}
+.footer_underline:hover  {
+                          text-decoration: underline;
+                          color: black;
+                          cursor: pointer; 
+}
+.last_line_underline:hover  {
+                             text-decoration: underline;
+                             color: black;
+                             cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
